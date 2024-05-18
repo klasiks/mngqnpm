@@ -1,0 +1,37 @@
+[
+    {
+        "id": "9527",
+        "name": "Github 歌单",
+        "cover": "images/album.png",
+        "creatorName": "EXP",
+        "creatorAvatar": "images/avatar.jpg",
+        "item": [
+            {
+                "id": "e8d6be55c5987078ef58d6ea4259d546",
+                "name": "1",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "مىنىڭ قىيىنئانام (راسىت ئىشلار خاتىرسى) 1-قىسىم    (ئاۋازلىق ئەسەر)",
+                "url": "static/Mining QeyneApam/1.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "e8d6be55c5987078ef58d6ea4259d546",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "85a0d733cacfcc57eb06176147b33d1f",
+                "name": "2",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "مىنىڭ قىيىنئانام (راسىت ئىشلار خاتىرسى) 2-قىسىم تۈگىدى     (ئاۋازلىق ئەسەر)",
+                "url": "static/Mining QeyneApam/2.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "85a0d733cacfcc57eb06176147b33d1f",
+                "pic_id": "",
+                "lyric_id": ""
+            }
+        ]
+    }
+]
